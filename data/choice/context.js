@@ -1,0 +1,24 @@
+//存放选择区域的图片路径
+export const IMAGES = [
+    {
+        url:"../../..//images-course/icon.png"
+    },
+    {
+         url:"../../../assets/images-course/icon.png"
+    },
+    {
+         url:"../../../assets/images-course/icon.png"
+    },
+    {
+         url:"../../../assets/images-course/course01.png"
+    },
+    {
+        url:"../../../assets/images-course/course02.png"
+        },
+    {
+        url:"../../../assets/images-course/course03.png"
+        },
+    {
+         url:"../../../assets/images-course/course04.png"
+    },
+] 
